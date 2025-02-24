@@ -1,0 +1,10 @@
+{
+  "name": "c2pa-images",
+  "version": "1.0.0",
+  "author": "",
+  "description": "",
+  "license": "ISC",
+  "scripts": {
+    "deploy": "npx gh-pages -d images"
+  }
+}
