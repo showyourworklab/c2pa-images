@@ -6,5 +6,8 @@
   "license": "ISC",
   "scripts": {
     "deploy": "npx gh-pages -d images"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
